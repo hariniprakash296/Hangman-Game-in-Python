@@ -1,5 +1,16 @@
 # Hangman-Game-in-Python Credits to tacarpe(github)
 A game designed for anyone who likes hangman
+For a game where user is unable to guess:
+
+![image](https://user-images.githubusercontent.com/70060391/176085167-c043ac04-7c4b-4696-9c86-387a4a608689.png)
+![image](https://user-images.githubusercontent.com/70060391/176085174-630287c3-55e6-4efe-9dc5-ebc525c161cf.png)
+![image](https://user-images.githubusercontent.com/70060391/176085254-cdcd7d9d-8e46-4b5a-a07a-4abfa9cb02cd.png)
+
+For a game where user guesses the word:
+![image](https://user-images.githubusercontent.com/70060391/176085358-a84f5374-841d-4cdc-9461-0f9d73775539.png)
+![image](https://user-images.githubusercontent.com/70060391/176085378-6ca09295-e88c-43f6-9540-5e0995df20f1.png)
+![image](https://user-images.githubusercontent.com/70060391/176085404-ecfcd74b-154b-4407-8658-19344f9835de.png)
+
 Get word list
 def get_word:
 Get random word from the word list file as a variable and convert it to uppercase using .UPPER()
